@@ -7,15 +7,43 @@
   <meta name="description" content="Путешествие по России, в Практикуме">
   <meta name="keywords" content="html, css, javascript">
   <title>Путешествие по России</title>
-  <link rel="Путешествие по России" href="pages/index.css">
+  <link rel="stylesheet" href="pages/index.css">
 </head>
 <body class="page border">
-  <header class="border">
-    <h1 class="border">Путешествия по России</h1>
+  <header class="header border">
+    <img class="header__logo" src="./images/logo/__logo.svg" alt="Логотип с надписью Россия и контуром России">
+    <nav class="header__links">
+      <a class="header__lang-link" href="#">Ru</a>
+      <a class="header__lang-link" href="#">En</a> 
+    </nav>
   </header>
-  <main class="border">
-    <h1 class="border">Путешествия по России</h1>
+  <main>
+    <section class="lead border">
+      <h1 class="lead__title border">Путешествия по России</h1>
+      <p class="lead__subtitle border">Настоящая страна не в выпусках новостей, а здесь.</p>
+      <div class="lead__background border">
+        <img class="lead__map border" src="./images/RouteWithCities.svg" alt="Схема маршрута с названием городов">
+
+      </div>
+      <p class="lead__caption border">ваша полка — верхняя</p>
+
+    </section>
+
+
+
+    
   </main>
-  <footer></footer>
+  <footer class="footer border">
+    <nav class="footer__links border">
+      <a class="footer__link" href="#">Карты</a>
+      <a class="footer__link" href="#">Погода</a>
+      <a class="footer__link" href="#">Засписание</a>
+      <a class="footer__link" href="#">Календарь</a>
+      <a class="footer__link" href="#">Путешествия</a>
+    </nav>
+    <p class="footer__copyright border">&copy; 2022 Пешехонов Захар</p>
+
+
+  </footer>
 </body>
 </html>
