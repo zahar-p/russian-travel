@@ -1,0 +1,14 @@
+.cover {
+  margin: auto;
+  margin-top: 92px;
+  margin-bottom: 0;
+  max-width: 1184px;
+  max-height: 740px;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+    
+  background-image: url('../../images/ToBaikal.png');
+  background-size: auto auto;
+}

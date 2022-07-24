@@ -1,0 +1,10 @@
+.lead__background {
+  margin-top: 64px;
+  width: 984px;
+  height: 615px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url('../../../images/kalegin-michail-179870-unsplash.jpg');
+  background-size: cover;
+}
