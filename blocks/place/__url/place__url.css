@@ -3,8 +3,29 @@
   margin-bottom: 0;
   font-weight: 400;
   font-size: 12px;
-  line-height: 20px;
   text-align: left;
   color: #aaa;
   letter-spacing: 2px;
 }
+
+
+@media screen and ( max-width: 768px) {
+  .place__url {
+    padding-left: 16px;
+    padding-right: 16px;
+    line-height: 12px;
+  }
+}
+
+@media screen and ( min-width: 768px) and ( max-width: 1024px) {
+  .place__url {
+    line-height: 12px;
+  }
+}
+
+@media screen and ( min-width: 1024px) {
+  .place__url {
+    line-height: 20px;
+  }
+}
+

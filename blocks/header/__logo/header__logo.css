@@ -3,3 +3,16 @@
   height: 52px;
   width: 176;
 }
+
+@media screen and ( max-width: 768px) {
+  .header__logo {
+    height: 42px;
+    width: 142;
+  }  
+}
+@media screen and ( min-width: 768px ) {
+  .header__logo {
+    height: 52px;
+    width: 176;
+  }  
+}
