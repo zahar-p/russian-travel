@@ -1,6 +1,5 @@
 .cover {
   margin: auto;
-  
   margin-bottom: 0;
 
   display: flex;
@@ -9,7 +8,9 @@
     
   background-image: url('../../images/ToBaikal.png');
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
+  
 }
 
 
