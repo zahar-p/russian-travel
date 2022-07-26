@@ -11,5 +11,6 @@
 * CSS
 
 [Ссылка на проект на GitHub Pages](https://zahar-p.github.io/russian-travel/ "Путешествие по России")
+[Ссылка на репозиторий GitHub](https://github.com/zahar-p/russian-travel "https://github.com/zahar-p/russian-travel")
 
 2022. Пешехонов Захар 
