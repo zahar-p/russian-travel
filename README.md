@@ -10,5 +10,6 @@
 * HTML
 * CSS
 
+[Ссылка на проект на GitHub Pages] (https://zahar-p.github.io/russian-travel/ "Путешествие по России")
 
 2022. Пешехонов Захар 
