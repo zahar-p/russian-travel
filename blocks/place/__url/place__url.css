@@ -9,7 +9,7 @@
 }
 
 
-@media screen and ( max-width: 768px) {
+@media screen and (max-width: 768px) {
   .place__url {
     padding-left: 16px;
     padding-right: 16px;
@@ -17,15 +17,14 @@
   }
 }
 
-@media screen and ( min-width: 768px) and ( max-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   .place__url {
     line-height: 12px;
   }
 }
 
-@media screen and ( min-width: 1024px) {
+@media screen and (min-width: 1024px) {
   .place__url {
     line-height: 20px;
   }
 }
-

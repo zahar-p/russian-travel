@@ -1,9 +1,9 @@
 .places {
-  margin:  auto;
+  margin: auto;
   margin-bottom: 0;
 }
 
-@media screen and ( max-width: 768px) {
+@media screen and (max-width: 768px) {
   .places {
     margin-top: 64px;
     margin-left: 0px;
@@ -11,7 +11,7 @@
   }
 }
 
-@media screen and ( min-width: 768px) and ( max-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   .places {
     margin-top: 88px;
     margin-left: 24px;
@@ -19,7 +19,7 @@
   }
 }
 
-@media screen  and ( min-width: 1024px) and ( max-width: 1280px) {
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
   .places {
     margin-top: 92px;
     margin-left: 48px;
@@ -27,7 +27,7 @@
   }
 }
 
-@media screen and ( min-width: 1280px) {
+@media screen and (min-width: 1280px) {
   .places {
     margin-top: 92px;
     margin-left: 148px;

@@ -3,18 +3,18 @@
   margin-top: 32px;
   margin-bottom: 0;
   max-width: 360px;
-  
+
   color: #FFFFFF;
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
   text-align: center;
   text-decoration: none;
-  
+
   z-index: 20;
 }
 
-@media screen and ( max-width: 768px) {
+@media screen and (max-width: 768px) {
   .cover__subtitle {
     margin-top: 16px;
     font-size: 14px;

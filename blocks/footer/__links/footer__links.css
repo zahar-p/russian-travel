@@ -5,9 +5,9 @@
   text-decoration: none;
 }
 
-@media screen and ( max-width: 768px) {
+@media screen and (max-width: 768px) {
   .footer__links {
     flex-direction: column;
     justify-content: flex-start;
-    }
+  }
 }

@@ -1,7 +1,7 @@
 .cover__overlay {
   margin: auto;
   width: 100%;
-  height: calc( 100vw / 1.6 );
+  height: calc(100vw / 1.6);
 
   text-decoration: none;
   background-color: rgba(42, 44, 47, 0.3);
