@@ -2,6 +2,9 @@
   color: #fff;
   text-decoration: none;
   font-weight: 400;
+  margin: 18px 18px 6px 0;
+  font-size: 24px;
+  line-height: 28px;
 }
 
 .header__lang-link:hover {
@@ -12,20 +15,10 @@
   margin-right: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .header__lang-link {
     margin: 14px 18px 0px 0;
     font-size: 18px;
     line-height: 20px;
-    width: 22px;
-  }
-}
-
-@media screen and (min-width: 768px) {
-  .header__lang-link {
-    margin: 18px 18px 6px 0;
-    font-size: 24px;
-    line-height: 28px;
-    width: 30px;
   }
 }
